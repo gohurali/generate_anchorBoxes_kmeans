@@ -8,6 +8,7 @@ jupyter : false
 ##################################################################
 # Dataset Parameters
 ##################################################################
+ds_test : true
 ds_loc : ../face_detect/datasets/archive/ # Dataset Location
 data_count : 50 # a number or full
 num_classes : 4 # if one class, then use 0
